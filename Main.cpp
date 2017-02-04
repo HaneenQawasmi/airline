@@ -27,9 +27,13 @@ typedef pair<int,int> pii;
 #define dbgp(x) //cerr << x << endl;
 #endif
 
+void printReport(){
+    // this function will print the report
+}
 
 int main(){
     
+
     
     return 0;
 }
