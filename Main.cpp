@@ -32,6 +32,9 @@ void printReport(){
 }
 
 int main(){
+    int x;
+    cin>>x;
+    
     
 
     
